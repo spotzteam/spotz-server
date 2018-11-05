@@ -1,0 +1,2 @@
+# spotz-server
+Spotz-Server
